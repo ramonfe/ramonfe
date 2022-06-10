@@ -1,6 +1,6 @@
 
-# [PUMB Online](https://apps.apple.com/ua/app/пумб-online/id1373626840) 
-<p align="left"> <a href="https://apps.apple.com/ua/app/пумб-online/id1373626840" download><img src="https://user-images.githubusercontent.com/33416429/92803227-11456700-f36c-11ea-9d0a-f51c0e848163.png" width="150" ></a>
+# PMx - Movies in Mexico
+<p align="left"> <a href="https://apps.apple.com/us/app/pel%C3%ADculas-en-m%C3%A9xico/id1624630803" download><img src="https://user-images.githubusercontent.com/33416429/92803227-11456700-f36c-11ea-9d0a-f51c0e848163.png" width="150" ></a>
 </p>
 
 * PUMB Online - A native iOS online banking app which helps people to manage their finance
