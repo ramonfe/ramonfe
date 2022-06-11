@@ -15,13 +15,13 @@ A mobile and fullstack developer with 15+ years of experience developing and lea
 </a>  
 </div>
 
-# PMx - Movies in Mexico
+# PMx - Movies in Mexico - IOs and Android App
+PMx app shows the list of movies being released in local theaters of mexico like oppening this week and and upcomings, also user find all the movies detail and also can play trailers.
+##### Stack Used: Swift, UIKit, GoogleMobileAds, Firebase, Json and Rest APIs
 
-* PUMB Online - A native iOS online banking app which helps people to manage their finance
-* PUMB Online has more than 1 000 000 users, #5 finance app in Ukrainian AppStore, rating 4.8. Crash free users - 99.89 %
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/33416429/93138739-516e5780-f694-11ea-8578-3f16db1bc263.png" width="930" title="PUMBOnline">
+<img src="https://github.com/ramonfe/ramonfe/blob/5e939bebabfa91f66f5ae41e25e01022290cf38f/Screen%20Shot%202022-06-11%20at%2014.29.58.png" width="930" title="PMx">
 </p>
 
 <p align="left"> <a href="https://apps.apple.com/us/app/pel%C3%ADculas-en-m%C3%A9xico/id1624630803" download><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width="120" height="40" ></a>
