@@ -1,6 +1,6 @@
 # Hi, I'm Ramón 👋
 
-A mobile and fullstack developer with 15+ years of experience developing and leading software teams. I am passionate about building apps and system solutions with a big positive impact in users.
+A mobile and fullstack developer with 20+ years of experience developing and leading software teams. I am passionate about building apps and system solutions with a big positive impact in users.
 
 # Projects
 ## PMx - Movies in Mexico - IOs and Android App
@@ -18,7 +18,7 @@ PMx app shows the list of movies being released in local theaters in mexico like
 ## Dollar in Mexico - IOs and Android App
 Shows the dollar exchange price in main banks of Mexico, goverments sources and market price. It has charts for historical price until 5 years, also users can find the nearest banks in the map.
 
-##### Stack Used: Swift, UIKit, GoogleAds, Firebase, Kingfisher, Maps, Json and Rest APIs
+##### Stack Used: Swift, UIKit, Xamarin, GoogleAds, Firebase, Kingfisher, Maps, Json and Rest APIs
 
 <p align="center">
 <img src="https://github.com/ramonfe/ramonfe/blob/main/dollar_allinone.png" width="930" title="Dollar in Mexico">
