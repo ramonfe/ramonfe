@@ -3,7 +3,7 @@
 A mobile and fullstack developer with 20+ years of experience developing and leading software teams. I am passionate about building apps and system solutions with a big positive impact in users.
 
 # Projects
-## PMx - Movies in Mexico - IOs and Android App
+## PMx - Movies in Mexico - iOS and Android App
 PMx app shows the list of movies being released in local theaters in mexico like oppening this week and upcomings, also user find all the movies details and can watch trailers.
 ##### Stack Used: Swift, UIKit, GoogleAds, Firebase, Kingfisher, Json and Rest APIs
 
@@ -15,7 +15,7 @@ PMx app shows the list of movies being released in local theaters in mexico like
 <a href="https://play.google.com/store/apps/details?id=com.unapp.filmkritik.mx" download><img src="https://lh3.googleusercontent.com/cjsqrWQKJQp9RFO7-hJ9AfpKzbUb_Y84vXfjlP0iRHBvladwAfXih984olktDhPnFqyZ0nu9A5jvFwOEQPXzv7hr3ce3QVsLN8kQ2Ao=s0" width="120" height="40" ></a>
 </p>
 
-## Dollar in Mexico - IOs and Android App
+## Dollar in Mexico - iOS and Android App
 Shows the dollar exchange price in main banks of Mexico, goverments sources and market price. It has charts for historical price until 5 years, also users can find the nearest banks in the map.
 
 ##### Stack Used: Swift, UIKit, Xamarin, GoogleAds, Firebase, Kingfisher, Maps, Json and Rest APIs
@@ -28,7 +28,7 @@ Shows the dollar exchange price in main banks of Mexico, goverments sources and 
 <a href="https://play.google.com/store/apps/details?id=com.dolar.ramonfelix.free" download><img src="https://lh3.googleusercontent.com/cjsqrWQKJQp9RFO7-hJ9AfpKzbUb_Y84vXfjlP0iRHBvladwAfXih984olktDhPnFqyZ0nu9A5jvFwOEQPXzv7hr3ce3QVsLN8kQ2Ao=s0" width="120" height="40" ></a>
 </p>
 
-## [MoonShot - IOs App] (https://github.com/ramonfe/100DaysOfSwiftUI/tree/main/Moonshot/Moonshot)
+# [MoonShot - iOS App](https://github.com/ramonfe/100DaysOfSwiftUI/tree/main/Moonshot/Moonshot)
 This is an App project for a SwiftUI course. Moonshot shows all the information for the Lunar misions of NASA as crew names, launch dates and all mision detail information. Additional I added to the app an option in the menu to show the main screen toggling view between a list and a Grid making it the user experience much better.
 
 ##### Stack Used: SwiftUI, Json, Rest APIs
