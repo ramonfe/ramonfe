@@ -34,7 +34,7 @@ Shows the Lunar misions of NASA as crew names and charges, launch dates and all 
 ##### Stack Used: SwiftUI, Json and Rest APIs
 
 <p align="center">
-<img src="https://github.com/ramonfe/ramonfe/blob/main/moonshotapp.png" width="930" title="MoonShot">
+<img src="https://github.com/ramonfe/ramonfe/blob/main/moonshotapp.jpg" width="930" title="MoonShot">
 </p>
 
 # Connect with me
