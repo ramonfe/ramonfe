@@ -38,7 +38,7 @@ This is an App project for a SwiftUI course. Moonshot shows all the information 
 </p>
 
 # [Bookworm - iOS App](https://github.com/ramonfe/100DaysOfSwiftUI/tree/main/Bookworm)
-App to keep permanent record of books readed by the user, allows to add and delete book and details as: book name, author, genre with a beatifull pictures, a user eview and a graphic rate of stars. This was a project for a tutorial using CoreData; additionaly I added validations to not allow blank values, a button to hide keyboard when finish typing and additional field as creation date.
+App to keep permanent record of books readed by the user, allows to add and delete book and details as: book name, author, genre with a beatifull pictures, a user review and rate selecting stars from 1 to 5. This was a project for a tutorial using CoreData; additionaly I added validations to not allow blank values, a button to hide keyboard to finish typing and additional field to local database (coredata) as creation date and others.
 
 ##### Stack Used: SwiftUI, CoreData, Binding Properties, own view components
 
