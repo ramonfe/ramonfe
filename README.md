@@ -18,7 +18,7 @@ Shows the dollar exchange price in main banks of Mexico, goverments sources and 
 
 ## PMx - Movies in Mexico - iOS and Android App
 PMx app shows the list of movies being released in local theaters in mexico like oppening this week and upcoming movies, also user find all the movies details and can watch movie trailers inside the app. I developed and published this app in 2016 and since then has more than 35k downloads.
-##### Stack Used: Swift, UIKit, GoogleAds, Firebase, Kingfisher, Json and Rest APIs
+##### Stack Used: Swift, SwiftUi, GoogleAds, Firebase, Kingfisher, Json and Rest APIs
 
 <p align="center">
 <img src="https://github.com/ramonfe/ramonfe/blob/5e939bebabfa91f66f5ae41e25e01022290cf38f/Screen%20Shot%202022-06-11%20at%2014.29.58.png" width="930" title="PMx">
