@@ -21,7 +21,7 @@ PMx app shows the list of movies being released in local theaters in mexico like
 ##### Stack Used: Swift, SwiftUi, GoogleAds, Firebase, Kingfisher, Json and Rest APIs
 
 <p align="center">
-<img src="https://github.com/ramonfe/ramonfe/blob/5e939bebabfa91f66f5ae41e25e01022290cf38f/Screen%20Shot%202022-06-11%20at%2014.29.58.png" width="930" title="PMx">
+<img src="https://github.com/ramonfe/ramonfe/blob/main/ScreenshotPMx.jpg" width="930" title="PMx">
 </p>
 
 <p align="left"> <a href="https://apps.apple.com/us/app/pel%C3%ADculas-en-m%C3%A9xico/id1624630803" download><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width="120" height="40" ></a>
